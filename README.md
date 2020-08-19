@@ -66,5 +66,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# ReactJS <br/> ```npx create-react-app hello-world``` to create a react app
-# ReactJS
+# ReactJS <br/> 
+```npx create-react-app hello-world``` to create a react app and get started with ```npm start```
