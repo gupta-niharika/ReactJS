@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gupta-niharika/ReactJS/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gupta-niharika/ReactJS/static/js/main.fb86466c.chunk.js",
+    "main.js.map": "/gupta-niharika/ReactJS/static/js/main.fb86466c.chunk.js.map",
+    "runtime-main.js": "/gupta-niharika/ReactJS/static/js/runtime-main.0da8fc92.js",
+    "runtime-main.js.map": "/gupta-niharika/ReactJS/static/js/runtime-main.0da8fc92.js.map",
+    "static/js/2.86c41a82.chunk.js": "/gupta-niharika/ReactJS/static/js/2.86c41a82.chunk.js",
+    "static/js/2.86c41a82.chunk.js.map": "/gupta-niharika/ReactJS/static/js/2.86c41a82.chunk.js.map",
+    "index.html": "/gupta-niharika/ReactJS/index.html",
+    "precache-manifest.ca55c254f98eade0f1dc8f6a204dc1b9.js": "/gupta-niharika/ReactJS/precache-manifest.ca55c254f98eade0f1dc8f6a204dc1b9.js",
+    "service-worker.js": "/gupta-niharika/ReactJS/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gupta-niharika/ReactJS/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.86c41a82.chunk.js.LICENSE.txt": "/gupta-niharika/ReactJS/static/js/2.86c41a82.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gupta-niharika/ReactJS/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0da8fc92.js",
+    "static/js/2.86c41a82.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fb86466c.chunk.js"
+  ]
+}
